@@ -1,8 +1,8 @@
-    [project]
+    [homework_1]
     authors = [
-      {name = "Your Name", email = "example@email.com"}
+      {name = "Lukas Sandström Nordin", email = "lukassan@chalmers.se"}
     ]
-    name = "python-project"
+    name = "homework_1"
     version = "0.1.0"
     description = "Add your description here"
     readme = "README.md"
